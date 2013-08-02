@@ -1,2 +1,6 @@
 .idea
 .sencha
+ext
+bootstrap.css
+bootstrap.js
+build.xml
